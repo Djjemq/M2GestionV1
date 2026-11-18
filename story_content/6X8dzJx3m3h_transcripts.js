@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":479,"text":"Empieza el tercer tema"},{"start":2289,"text":"sobre los retos en la gestión de un emprendimiento"},{"start":5460,"text":"a partir de los obstáculos que han manifestado los cuidadores entrevistados"},{"start":10170,"text":"en un estudio reciente realizado aquí en Lima"},{"start":13289,"text":"sobre aquellos aspectos que les limita para emprender."},{"start":16860,"text":"Las respuestas más frecuentes"},{"start":18940,"text":"fueron las siguientes"},{"start":20790,"text":"66 %"},{"start":22780,"text":"indica no conocer los programas de apoyo que existen para emprendimiento."},{"start":27899,"text":"El 64 %"},{"start":29899,"text":"menciona no tener conocimientos de gestión empresarial"},{"start":33619,"text":"y un 61%"},{"start":35700,"text":"menciona no contar con capital inicial"},{"start":38259,"text":"para poder implementar un negocio."}]}]};
+    window.globalLoadJsAsset('story_content/6X8dzJx3m3h_transcripts.js', JSON.stringify(data));
+})();

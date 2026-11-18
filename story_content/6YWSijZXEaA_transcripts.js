@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":460,"text":"Ese mismo estudio"},{"start":2079,"text":"encontró 3 formas distintas de vivir el cuidado."},{"start":5800,"text":"Hay un 28 % de entrevistados"},{"start":8680,"text":"que cuidan principalmente por un sentido de deber familiar."},{"start":12890,"text":"Hay otro 42 %"},{"start":15090,"text":"para quienes el servicio de cuidado es su vocación y quieren aprender más."},{"start":20090,"text":"y finalmente hay un 30 %"},{"start":23049,"text":"quienes que cuentan con experiencia"},{"start":25290,"text":"y tienen un interés claro"},{"start":27129,"text":"en formalizar un negocio propio en el sector de cuidado."}]}]};
+    window.globalLoadJsAsset('story_content/6YWSijZXEaA_transcripts.js', JSON.stringify(data));
+})();

@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":500,"text":"Además de aplicar las estrategias planteadas anteriormente,"},{"start":4349,"text":"te recomendamos considerar estas sugerencias antes de emprender."},{"start":8710,"text":"Primero,"},{"start":9430,"text":"al inicio de tu negocio,"},{"start":11189,"text":"no dejes tu trabajo o fuente de ingresos actuales."},{"start":14670,"text":"Segundo"},{"start":15510,"text":"Cacítate en temas de gestión de negocios"},{"start":18389,"text":"y tercero,"},{"start":19389,"text":"únete a una red de otros cuidadores"},{"start":21750,"text":"para fortalecer tu servicio y"},{"start":24760,"text":"por qué no ampliar tu red de contactos"},{"start":26590,"text":"que puede ayudarte a ampliar tu cartera de clientes."}]}]};
+    window.globalLoadJsAsset('story_content/5rOlK35vYx2_transcripts.js', JSON.stringify(data));
+})();

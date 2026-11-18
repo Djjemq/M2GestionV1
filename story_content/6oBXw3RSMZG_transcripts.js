@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":589,"text":"Cierra este subtema encontrando aquello que hace"},{"start":3549,"text":"diferente a tu servicio de cuidado."},{"start":6070,"text":"Qué hace único al servicio que tú brindas"},{"start":9430,"text":"o podrías brindar."},{"start":11350,"text":"No se trata de compararte para sentirte mal,"},{"start":14270,"text":"sino de encontrar eso que te hace distinto."},{"start":17190,"text":"Atención más humana,"},{"start":18790,"text":"personal certificado"},{"start":20459,"text":"o herramientas para seguimiento tecnológico del cuidado."},{"start":24459,"text":"Tu diferencia"},{"start":25700,"text":"está en los detalles que ofreces"},{"start":27819,"text":"que te distinguen por sobre otros servicios"},{"start":30459,"text":"y que hacen que te elijan por sobre otros cuidadores."}]}]};
+    window.globalLoadJsAsset('story_content/6oBXw3RSMZG_transcripts.js', JSON.stringify(data));
+})();

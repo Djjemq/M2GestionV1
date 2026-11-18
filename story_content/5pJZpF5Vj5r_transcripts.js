@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":439,"text":"Pero también"},{"start":1480,"text":"a partir de la experiencia en el cuidado de personas mayores"},{"start":5190,"text":"se ha identificado otras oportunidades de negocio."},{"start":8750,"text":"Por ejemplo,"},{"start":9750,"text":"centros de reposo para personas mayores"},{"start":12350,"text":"que requieren una mayor inversión inicial,"},{"start":15069,"text":"pero permiten atender a varias personas al mismo tiempo."},{"start":18870,"text":"Tienda de productos para personas mayores como vender pañales,"},{"start":22469,"text":"sillas de ruedas,"},{"start":23510,"text":"andadores,"},{"start":24309,"text":"etc."},{"start":25510,"text":"Un dato importante."},{"start":27229,"text":"El primer paso es identificar qué necesidades existen actualmente"},{"start":31729,"text":"en torno al servicio de cuidado y determinar cuál o cuáles te gusta más"},{"start":36330,"text":"y sea el inicio de un emprendimiento."}]}]};
+    window.globalLoadJsAsset('story_content/5pJZpF5Vj5r_transcripts.js', JSON.stringify(data));
+})();

@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":330,"text":"Para cerrar el módulo,"},{"start":1860,"text":"incorpora lo siguiente"},{"start":3900,"text":"una pequeña actividad física simple."},{"start":6989,"text":"Los ejercicios breves de estiramiento,"},{"start":9310,"text":"por ejemplo,"},{"start":10439,"text":"ayudan a aliviar la tensión física"},{"start":12829,"text":"que puede acumular tu cuerpo durante el día."},{"start":16030,"text":"En YouTube"},{"start":16950,"text":"puedes buscar canales con tutoriales de ejercicios de estiramiento"},{"start":21280,"text":"para mantener tu estado físico en las mejores condiciones."},{"start":25909,"text":"En el Blackboard"},{"start":27069,"text":"encontrarás algunos links"},{"start":28909,"text":"sugeridos para hacer ejercicios de estiramiento."},{"start":32549,"text":"Búscalos."}]}]};
+    window.globalLoadJsAsset('story_content/5kauHj3qKVE_transcripts.js', JSON.stringify(data));
+})();

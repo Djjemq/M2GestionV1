@@ -1,5 +1,0 @@
-
-(function() {
-    const data = {"transcripts":[{"name":"captions","cues":[{"start":550,"text":"Llegas al último subtema de este bloque"},{"start":3630,"text":"identificar quien más ofrece un servicio de cuidado a"},{"start":7010,"text":"personas mayores cerca de ti en tu zona."},{"start":10380,"text":"Fíjate también qué ofrecen."},{"start":12420,"text":"Qué calidad tienen esos servicios?"},{"start":14619,"text":"Cuánto cobran?"},{"start":15939,"text":"Qué otros servicios complementarios ofrecen,"},{"start":18659,"text":"entre otros detalles."},{"start":20579,"text":"Esta información no es para compararte con miedo,"},{"start":23540,"text":"sino con curiosidad"},{"start":25180,"text":"y te puede ayudar a mejorar tu servicio actual"},{"start":27979,"text":"o a identificar una nueva oportunidad de negocio."}]}]};
-    window.globalLoadJsAsset('story_content/65V5lUQGcSY_transcripts.js', JSON.stringify(data));
-})();

@@ -1,5 +1,0 @@
-
-(function() {
-    const data = {"transcripts":[{"name":"captions","cues":[{"start":569,"text":"Ahora conoceremos las opiniones de los cuidadores"},{"start":3569,"text":"que fueron entrevistados para un estudio en Lima"},{"start":6519,"text":"respecto de lo que consideran que más les ayudaría para emprender."},{"start":10739,"text":"A todos ellos se les preguntó:"},{"start":12579,"text":"¿Qué te ayudaría a dar el primer paso para emprender?"},{"start":16780,"text":"Lo que más pesa,"},{"start":17719,"text":"según los resultados,"},{"start":19000,"text":"es"},{"start":19719,"text":"un certificado oficial que valide lo aprendido"},{"start":22770,"text":"y financiamiento o capital semilla para empezar."}]}]};
-    window.globalLoadJsAsset('story_content/6ppFwZEY8FV_transcripts.js', JSON.stringify(data));
-})();

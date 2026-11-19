@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":330,"text":"El diario no es la única herramienta."},{"start":2900,"text":"Una técnica simple y rápida que te puede ayudar,"},{"start":6019,"text":"sobre todo en esos momentos de gran estrés."},{"start":8619,"text":"es la respiración consciente."},{"start":10979,"text":"dedicar unos minutos a respirar de forma lenta y profunda,"},{"start":14739,"text":"prestando atención a cada respiración."},{"start":17299,"text":"Pueden bajar tu nivel de estrés en el momento,"},{"start":20139,"text":"sin necesitar de nada más en ese momento."},{"start":23579,"text":"Lo mejor"},{"start":24420,"text":"es que puedes practicarla en casa o durante una pausa en tu jornada,"},{"start":28940,"text":"sin necesitar ningún equipo especial."}]}]};
+    window.globalLoadJsAsset('story_content/5YefAlwk5xA_transcripts.js', JSON.stringify(data));
+})();

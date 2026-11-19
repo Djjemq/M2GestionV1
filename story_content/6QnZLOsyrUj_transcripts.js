@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":330,"text":"Para poder aplicar lo aprendido en este módulo."},{"start":3289,"text":"Te invitamos a resolver esta actividad denominada"},{"start":6730,"text":"el"},{"start":6969,"text":"caso de Luisa."},{"start":8369,"text":"Qué harías tú?"},{"start":9880,"text":"Lee el siguiente caso."},{"start":11930,"text":"Luisa empezó su servicio de cuidado hace poco."},{"start":15649,"text":"Atiende a la señora Anita 15 horas a la semana"},{"start":19129,"text":"y a Don Pedrito 10 horas a la semana."},{"start":22200,"text":"Además,"},{"start":23049,"text":"tiene que encargarse de las tareas de su propia casa."},{"start":26479,"text":"Ha empezado a sentir mucho cansancio"},{"start":29049,"text":"y siente que no puede atender bien a ninguno de los dos."}]}]};
+    window.globalLoadJsAsset('story_content/6QnZLOsyrUj_transcripts.js', JSON.stringify(data));
+})();

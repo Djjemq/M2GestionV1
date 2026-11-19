@@ -1,5 +1,0 @@
-
-(function() {
-    const data = {"transcripts":[{"name":"captions","cues":[{"start":200,"text":"También se identificaron otros obstáculos frecuentes."},{"start":3920,"text":"Por ejemplo,"},{"start":4840,"text":"pesa no tener una red de contactos para apoyarse"},{"start":7800,"text":"y miedo a perder los ingresos fijos que ya se tienen."},{"start":11539,"text":"A esto se suma algo documentado a"},{"start":13670,"text":"nivel nacional entre emprendedores mayores de 50 años"},{"start":17909,"text":"existe edadismo,"},{"start":19430,"text":"es decir,"},{"start":20350,"text":"la discriminación por edad,"},{"start":22430,"text":"lo que puede disuadir a las personas de"},{"start":24629,"text":"50 años en adelante a iniciar un emprendimiento."}]}]};
-    window.globalLoadJsAsset('story_content/6UGCdrnUYSA_transcripts.js', JSON.stringify(data));
-})();

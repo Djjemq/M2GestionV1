@@ -1,5 +1,0 @@
-
-(function() {
-    const data = {"transcripts":[{"name":"captions","cues":[{"start":589,"text":"Conoce cómo funciona tu chatbot de apoyo."},{"start":3559,"text":"Tu aliado durante el curso"},{"start":5829,"text":"puede orientarte para ingresar al curso en Blackboard."},{"start":9069,"text":"Te ayuda a resolver tus dudas sobre cómo empezar y desarrollar las actividades."},{"start":14670,"text":"Te permite aclarar tus consultas de"},{"start":16670,"text":"contenido usando sólo la documentación del curso"},{"start":20549,"text":"y te acompaña durante todo el desarrollo del curso."},{"start":24299,"text":"Cuando lo necesites,"},{"start":25709,"text":"toca el botón de WhatsApp y escríbele."}]}]};
-    window.globalLoadJsAsset('story_content/5vSQK15vGt4_transcripts.js', JSON.stringify(data));
-})();

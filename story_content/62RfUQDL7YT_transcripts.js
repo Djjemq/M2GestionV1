@@ -1,5 +1,0 @@
-
-(function() {
-    const data = {"transcripts":[{"name":"captions","cues":[{"start":500,"text":"Qué necesitan realmente estas personas mayores"},{"start":4059,"text":"viven solas"},{"start":5449,"text":"o acompañadas."},{"start":7179,"text":"Requieren algún cuidado especial?"},{"start":9659,"text":"Qué tipo de apoyo requieren?"},{"start":11939,"text":"Se puede hacer referencia a otros tipos"},{"start":14060,"text":"de productos o servicios que pueden necesitar,"},{"start":17250,"text":"por ejemplo,"},{"start":18350,"text":"plataformas de conexión para cuidadores,"},{"start":21340,"text":"venta,"},{"start":21979,"text":"alquiler y o mantenimiento de equipos médicos,"},{"start":25459,"text":"nutricionistas o terapistas para adultos,"},{"start":28219,"text":"entre otros."}]}]};
-    window.globalLoadJsAsset('story_content/62RfUQDL7YT_transcripts.js', JSON.stringify(data));
-})();

@@ -1,1 +1,0 @@
-window.globalLoadJsAsset('story_content/6Mx8p9baw23_captions.js', {"captions":[{"langCode":"es","data":"WEBVTT%0D%0A%0D%0ANOTE%0D%0AKind%3A%20captions%0D%0ASource%3A%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version%3A%203.115.36688.0%0D%0A%0D%0A00%3A00%3A00.610%20--%3E%2000%3A00%3A03.019%0D%0Atema%20tres%20recursos%20para%20el%20autocuidado%0D%0A%0D%0A"}]})

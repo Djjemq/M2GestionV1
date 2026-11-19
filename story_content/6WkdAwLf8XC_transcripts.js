@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":569,"text":"Recuerda que delegar es el primer paso para cuidar mejor de ti"},{"start":4429,"text":"y de tu emprendimiento"},{"start":6510,"text":"para las tareas del hogar o personales."},{"start":8909,"text":"Puedes apoyarte en tu"},{"start":10460,"text":"familia y amigos,"},{"start":11670,"text":"mientras que las tareas propias del trabajo de cuidado"},{"start":15039,"text":"pueden compartirse con una red de otros cuidadores."},{"start":19270,"text":"Así no sólo alivias tu carga,"},{"start":21989,"text":"sino que también fortaleces vínculos"},{"start":24430,"text":"y abres oportunidades para que tu negocio crezca."},{"start":28059,"text":"Delegar es confiar,"},{"start":29819,"text":"organizar y avanzar."}]}]};
+    window.globalLoadJsAsset('story_content/6WkdAwLf8XC_transcripts.js', JSON.stringify(data));
+})();

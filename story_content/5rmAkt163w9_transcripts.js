@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":479,"text":"Lo que acabas de ver tiene nombre."},{"start":3039,"text":"Pobreza de tiempo"},{"start":4960,"text":"ocurre cuando el cuidado ocupa tanto de tu"},{"start":7239,"text":"día que te queda poco tiempo para aprender,"},{"start":10199,"text":"para trabajar en lo tuyo,"},{"start":12000,"text":"para dedicarte a un pasatiempo o para descansar."},{"start":15810,"text":"Pasa en todo el mundo."},{"start":17559,"text":"Cada día se dedican más de 16,000 millones de horas"},{"start":21239,"text":"al cuidado no remunerado"},{"start":23360,"text":"y las mujeres le dedican más de 4 horas diarias,"},{"start":26799,"text":"3 veces más que los hombres."},{"start":29149,"text":"Por eso"},{"start":29950,"text":"organizar tu tiempo y compartir el cuidado"},{"start":32668,"text":"no es un lujo ni una falla."},{"start":35020,"text":"Es una forma de recuperar tiempo para ti y para tu servicio."}]}]};
+    window.globalLoadJsAsset('story_content/5rmAkt163w9_transcripts.js', JSON.stringify(data));
+})();

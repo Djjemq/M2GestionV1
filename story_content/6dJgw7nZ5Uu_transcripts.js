@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":330,"text":"Hay señales que conviene no pasar por alto."},{"start":3319,"text":"Un estudio realizado con cuidadoras y cuidadores de Lima"},{"start":7119,"text":"encontró que 6 de cada 10"},{"start":9199,"text":"sienten un alto nivel de cansancio físico"},{"start":12159,"text":"y cerca de 7 de cada 10"},{"start":14239,"text":"experimentan un fuerte desgaste emocional."},{"start":17479,"text":"Prestar atención a estas señales es el primer paso"},{"start":20790,"text":"para cuidar de ti misma o de ti mismo."},{"start":23940,"text":"Reconocer cuándo necesitas descansar,"},{"start":26680,"text":"pedir ayuda o distribuir mejor tus tareas"},{"start":29559,"text":"también forma parte del cuidado."}]}]};
+    window.globalLoadJsAsset('story_content/6dJgw7nZ5Uu_transcripts.js', JSON.stringify(data));
+})();

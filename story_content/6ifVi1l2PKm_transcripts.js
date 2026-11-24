@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":280,"text":"Retomemos la pregunta sobre el problema"},{"start":2539,"text":"que resolvemos como cuidadores y cuidadoras."},{"start":5630,"text":"Qué problema resuelves realmente"},{"start":8430,"text":"el"},{"start":8630,"text":"no contar con tiempo suficiente para cuidar a mis"},{"start":11109,"text":"padres que se están haciendo mayores y acompañarlos."},{"start":14470,"text":"El temor de que les pase algo si no estoy o no llego a la hora por mi trabajo."},{"start":19549,"text":"Recuerda que el problema es la diferencia entre dónde está"},{"start":22909,"text":"tu cliente o usuario hora y dónde quiere estar."}]}]};
+    window.globalLoadJsAsset('story_content/6ifVi1l2PKm_transcripts.js', JSON.stringify(data));
+})();

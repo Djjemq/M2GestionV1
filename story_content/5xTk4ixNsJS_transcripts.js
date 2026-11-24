@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":280,"text":"Responde estas preguntas sobre tu servicio actual."},{"start":3980,"text":"Esta reflexión"},{"start":5219,"text":"te ayudará a identificar tanto tus fortalezas"},{"start":8100,"text":"como las áreas que requieren mejora."},{"start":10699,"text":"alcance."},{"start":11859,"text":"A cuántas familias atiendes hoy y cuáles son"},{"start":14420,"text":"las características de los que te contactan,"},{"start":16860,"text":"de los que se encargan del pago y de los que cuidas"},{"start":20340,"text":"demandas."},{"start":21500,"text":"Qué te piden con más frecuencia?"},{"start":23819,"text":"Claridad."},{"start":24940,"text":"Qué fortalezas u oportunidades de mejora puedes identificar."},{"start":29180,"text":"Qué podrías mejorar en tu servicio?"},{"start":31819,"text":"Hay algo que sientes que ofreces y no es valorado."}]}]};
+    window.globalLoadJsAsset('story_content/5xTk4ixNsJS_transcripts.js', JSON.stringify(data));
+})();

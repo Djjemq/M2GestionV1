@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":409,"text":"Descubre lo que no te dicen."},{"start":2839,"text":"Entiende a fondo a tu cliente."},{"start":5010,"text":"Es muy importante que tengas en cuenta que las personas no te van a decir exactamente"},{"start":10489,"text":"qué ven."},{"start":11529,"text":"Qué sienten?"},{"start":12850,"text":"a qué le tienen miedo."},{"start":15079,"text":"Uno lo va descubriendo a medida que hace una entrevista,"},{"start":18420,"text":"ya que para encontrar el problema"},{"start":20809,"text":"debemos volvernos expertos en el problema"},{"start":24010,"text":"y entender que no solamente se necesita a alguien"},{"start":27370,"text":"que cuide a un ser querido por enfermedad."},{"start":30430,"text":"Existe un mundo de razones"},{"start":32909,"text":"o"},{"start":33189,"text":"dolores detrás,"},{"start":35150,"text":"como la soledad,"},{"start":36790,"text":"el"},{"start":37029,"text":"sentir que uno va desapareciendo sin actividades,"},{"start":40459,"text":"entre otros."}]}]};
+    window.globalLoadJsAsset('story_content/5bDkdN8omGw_transcripts.js', JSON.stringify(data));
+})();

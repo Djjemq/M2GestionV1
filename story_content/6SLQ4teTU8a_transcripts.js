@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":419,"text":"Ahora vas a ver datos reales que te pueden ayudar a llenar este mapa."},{"start":5139,"text":"Un estudio con cuidadoras de Lima"},{"start":7320,"text":"encontró que al elegir un servicio,"},{"start":9930,"text":"las familias valoran sobre todo el trato y la recomendación"},{"start":13460,"text":"de alguien de confianza."},{"start":15310,"text":"Ten en cuenta que no hay un número único o mágico de entrevistas."},{"start":19399,"text":"Empezarás a ver un patrón que se repite en el perfil,"},{"start":22540,"text":"sobre todo"},{"start":23479,"text":"a nivel de estilo de vida,"},{"start":25139,"text":"comportamiento."},{"start":26350,"text":"y cuando lo percibas,"},{"start":27500,"text":"identificarás quién es tú público objetivo."}]}]};
+    window.globalLoadJsAsset('story_content/6SLQ4teTU8a_transcripts.js', JSON.stringify(data));
+})();

@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":330,"text":"Empieza este tema con 2 elementos que van juntos"},{"start":3819,"text":"tu segmento de clientes y usuarios y tu propuesta de valor."},{"start":8069,"text":"A quién le vendes tu servicio?"},{"start":10149,"text":"El primero responde"},{"start":12048,"text":"a quién sirves ó á quién le vendes tu servicio?"},{"start":15439,"text":"El segundo."},{"start":16440,"text":"Qué característica te hace diferente para esa persona"},{"start":19520,"text":"cuando te compara con otros servicios similares"},{"start":22920,"text":"respecto de tu segmento de clientes,"},{"start":25079,"text":"puedes usar la información del mapa de empatía."},{"start":28319,"text":"Recuerda"},{"start":29239,"text":"el mapa de empatía describe a tu cliente y a tu usuario,"},{"start":32799,"text":"así como los problemas que has encontrado en ellos."},{"start":35880,"text":"Y quién es tu usuario"},{"start":37409,"text":"es al que conoces como paciente."}]}]};
+    window.globalLoadJsAsset('story_content/5WlPFkk6Cx8_transcripts.js', JSON.stringify(data));
+})();

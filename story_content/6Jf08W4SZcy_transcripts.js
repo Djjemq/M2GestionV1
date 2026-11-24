@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":419,"text":"Cuánto te cuesta el ofrecer tu servicio de cuidado."},{"start":3950,"text":"Aquí tienes una lista de lo que puede implicar un costo para ti."},{"start":7949,"text":"Identificarlos todos es clave para que valorices mejor tu servicio."},{"start":13039,"text":"Movilidad,"},{"start":14159,"text":"celular y datos,"},{"start":15760,"text":"uniforme,"},{"start":16639,"text":"insumos,"},{"start":17680,"text":"guantes,"},{"start":18440,"text":"mascarillas,"},{"start":19440,"text":"capacitación y su seguro de salud."},{"start":22700,"text":"Materiales"},{"start":23870,"text":"el pago a la cuidadora de apoyo,"},{"start":25829,"text":"contador,"},{"start":26670,"text":"impuestos y publicidad básica."}]}]};
+    window.globalLoadJsAsset('story_content/6Jf08W4SZcy_transcripts.js', JSON.stringify(data));
+})();

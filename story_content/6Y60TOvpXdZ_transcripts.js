@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":189,"text":"Ahora"},{"start":1259,"text":"vas a conocer el modelo Canvas."},{"start":3700,"text":"Es una herramienta que sirve para diseñar,"},{"start":6340,"text":"analizar y ordenar una idea de negocio en una sola página."},{"start":10640,"text":"tiene"},{"start":11149,"text":"nueve espacios"},{"start":12880,"text":"A quien le sirves."},{"start":14300,"text":"Qué le ofreces?"},{"start":15539,"text":"Cómo llegas a tus clientes"},{"start":17319,"text":"y cómo te relacionas con ellos?"},{"start":19940,"text":"Cuánto ganas"},{"start":21340,"text":"y cuánto gastas"},{"start":23090,"text":"y lo que necesitas para ofrecer tu servicio,"},{"start":26340,"text":"tus recursos,"},{"start":27459,"text":"tus actividades"},{"start":29059,"text":"y tus aliados."},{"start":30780,"text":"En este módulo vas a trabajar los más importantes para tu servicio de cuidado"},{"start":35819,"text":"con ejemplos."}]}]};
+    window.globalLoadJsAsset('story_content/6Y60TOvpXdZ_transcripts.js', JSON.stringify(data));
+})();

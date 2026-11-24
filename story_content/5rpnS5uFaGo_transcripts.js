@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":479,"text":"Como viste en el caso de Helena al inicio del curso,"},{"start":3480,"text":"crecer no siempre significa atender más horas tú misma o tú mismo."},{"start":7710,"text":"A veces significa sumar a otra cuidadora de confianza"},{"start":11229,"text":"para atender a más familias sin bajar la calidad."},{"start":14630,"text":"En otros países,"},{"start":15979,"text":"muchas cuidadoras se han asociado en cooperativas para crecer"},{"start":19540,"text":"y ofrecer un servicio más completo."},{"start":22180,"text":"Un ejemplo es la cooperativa Caminos"},{"start":25250,"text":"en Uruguay,"},{"start":26290,"text":"que da asistencia personal en el hogar,"},{"start":28729,"text":"incluyendo también enfermeras,"},{"start":30690,"text":"médicos y psicólogos."},{"start":32650,"text":"Además,"},{"start":33409,"text":"arma un plan de cuidados junto con cada familia."},{"start":36610,"text":"Haz clic para conocerla."}]}]};
+    window.globalLoadJsAsset('story_content/5rpnS5uFaGo_transcripts.js', JSON.stringify(data));
+})();

@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":310,"text":"A continuación"},{"start":1779,"text":"algunos ejemplos de otros canales para tu servicio de cuidado."},{"start":5739,"text":"En todos el servicio se entrega a domicilio."},{"start":8899,"text":"Lo que cambia"},{"start":9789,"text":"es cómo te conocen."},{"start":11760,"text":"En"},{"start":11939,"text":"el primer ejemplo,"},{"start":13220,"text":"las personas te encuentran por recomendación"},{"start":15779,"text":"por la parroquia y por un grupo de WhatsApp del barrio."},{"start":19620,"text":"En el segundo te recomiendan médicos,"},{"start":21860,"text":"geriatras y grupos de familias con Alzheimer."},{"start":25329,"text":"Y en el tercero"},{"start":26479,"text":"te encuentran por Facebook y Google Maps"},{"start":28950,"text":"y hay clínicas que te derivan pacientes."},{"start":31590,"text":"Pregúntate"},{"start":32630,"text":"por cuáles de estos canales podrían encontrarte las familias que quieres atender."}]}]};
+    window.globalLoadJsAsset('story_content/6Fb1WoRAl2Z_transcripts.js', JSON.stringify(data));
+})();

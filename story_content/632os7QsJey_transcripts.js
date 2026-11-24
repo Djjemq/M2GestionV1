@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":409,"text":"Diseñar tu propuesta de servicio para generar ingresos."},{"start":4610,"text":"A continuación,"},{"start":6050,"text":"algunos ejemplos al respecto."},{"start":8550,"text":"Ofrecer una tarifa por turno"},{"start":10869,"text":"mediodía o día completo"},{"start":12869,"text":"y ofrecer un paquete mensual de lunes a viernes."},{"start":16479,"text":"Ofrecer un paquete mensual con horario fijo,"},{"start":19790,"text":"sesiones de orientación a familiares y turnos de relevo"},{"start":23629,"text":"los fines de semana."},{"start":25600,"text":"Ofrecer planes mensuales por turnos,"},{"start":28290,"text":"cuidado post alta"},{"start":29739,"text":"por semanas"},{"start":30850,"text":"y recargo en fines de semana y feriados."}]}]};
+    window.globalLoadJsAsset('story_content/632os7QsJey_transcripts.js', JSON.stringify(data));
+})();

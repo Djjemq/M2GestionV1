@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":469,"text":"Dónde hay más necesidad de cuidado"},{"start":2750,"text":"y qué requiere más especialización."},{"start":5619,"text":"Un dato que te puede ayudar a definirlo."},{"start":8359,"text":"Las familias muestran más apertura para contratar apoyo"},{"start":11720,"text":"en casos de alzhéimer o demencia"},{"start":13960,"text":"y de dependencia física total."},{"start":16639,"text":"En cambio,"},{"start":17520,"text":"piden más cuidado y preparación específica en casos de enfermedad mental grave."},{"start":22409,"text":"Y en otros casos"},{"start":24090,"text":"buscan acompañamiento y compañía para sus seres queridos,"},{"start":27530,"text":"porque ellos no pueden pasar más tiempo con ellos como quisieran."}]}]};
+    window.globalLoadJsAsset('story_content/6ET1Ne7eFND_transcripts.js', JSON.stringify(data));
+})();

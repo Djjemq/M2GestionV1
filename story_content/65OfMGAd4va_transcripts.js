@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":280,"text":"Estos son los 9 bloques del modelo Canvas"},{"start":3180,"text":"ordenados en 4 preguntas."},{"start":5380,"text":"¿Qué ofreces"},{"start":6860,"text":"tu propuesta de valor."},{"start":8420,"text":"El servicio que resuelve un problema os satisface una necesidad."},{"start":12979,"text":"A quién?"},{"start":14260,"text":"Tus segmentos de clientes,"},{"start":15979,"text":"los canales para llegar a ellos y la relación que tienes con cada uno."},{"start":20590,"text":"¿Cómo lo haces?"},{"start":22399,"text":"Tus recursos,"},{"start":23739,"text":"tus actividades"},{"start":25299,"text":"y tus aliados."},{"start":27309,"text":"Y cuánto"},{"start":28590,"text":"tus fuentes de ingresos y tu estructura de costos."},{"start":32679,"text":"No tienes que memorizarlos"},{"start":35039,"text":"en las siguientes pantallas."},{"start":36758,"text":"Los vas a ver con ejemplos de tu servicio de cuidado."}]}]};
+    window.globalLoadJsAsset('story_content/65OfMGAd4va_transcripts.js', JSON.stringify(data));
+})();

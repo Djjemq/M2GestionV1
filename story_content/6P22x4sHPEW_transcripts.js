@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":330,"text":"Empieza este último tema con una pregunta distinta."},{"start":3819,"text":"¿Cómo hago para que mi servicio sea sostenible y dure en el tiempo?"},{"start":9050,"text":"3 factores lo determinan"},{"start":11100,"text":"la calidad de tu atención o de tu servicio de cuidado,"},{"start":14979,"text":"tu capacidad real de atención."},{"start":17489,"text":"Es decir,"},{"start":18340,"text":"a cuántas personas podrás brindar tu servicio"},{"start":21299,"text":"y la retención de tus clientes."},{"start":23100,"text":"Es decir,"},{"start":24059,"text":"como logras que los clientes siempre te elijan a ti por sobre otros cuidadores."}]}]};
+    window.globalLoadJsAsset('story_content/6P22x4sHPEW_transcripts.js', JSON.stringify(data));
+})();

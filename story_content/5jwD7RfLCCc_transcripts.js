@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":330,"text":"Empieza este tema con una herramienta simple"},{"start":3500,"text":"el"},{"start":3779,"text":"mapa de empatía."},{"start":5500,"text":"Y qué es?"},{"start":7159,"text":"Esta es una herramienta simple para entender mejor a tus clientes."},{"start":11409,"text":"El mapa de empatía."},{"start":13520,"text":"Te ayuda a ponerte en el lugar de la familia que busca un servicio como el tuyo"},{"start":18479,"text":"respondiendo 4 preguntas."},{"start":20639,"text":"Qué piensa y siente?"},{"start":22799,"text":"Qué ve,"},{"start":23639,"text":"qué dice y hace y qué necesita?"},{"start":27120,"text":"Como vimos antes,"},{"start":28479,"text":"cliente y usuario al ser distintos,"},{"start":30920,"text":"merecen mapas de empatía distintos."},{"start":33560,"text":"Te invitamos a revisar en la sección Recursos del Blackboard"},{"start":37520,"text":"más información y herramientas sobre el mapa de empatía."}]}]};
+    window.globalLoadJsAsset('story_content/5jwD7RfLCCc_transcripts.js', JSON.stringify(data));
+})();

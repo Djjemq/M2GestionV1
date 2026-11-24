@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":409,"text":"Si ya cuidas a una o varias familias,"},{"start":2970,"text":"tienes mucho conocimiento y experiencia sobre el servicio de cuidado."},{"start":7449,"text":"Así que enfócate en identificar todas las fortalezas del servicio que ya ofreces."},{"start":12489,"text":"Qué aspectos son los que valoran tus clientes y usuarios"},{"start":15770,"text":"y poner en blanco y negro toda esta información importante."},{"start":19690,"text":"Todo ello"},{"start":20770,"text":"viene a ser tu propuesta de valor."},{"start":23420,"text":"Revisar en detalle lo que ya funciona en tu servicio"},{"start":26620,"text":"es tan valioso como descubrir algo nuevo."}]}]};
+    window.globalLoadJsAsset('story_content/6kh2Dp6sIk1_transcripts.js', JSON.stringify(data));
+})();

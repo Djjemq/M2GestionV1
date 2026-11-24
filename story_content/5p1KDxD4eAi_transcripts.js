@@ -1,5 +1,0 @@
-
-(function() {
-    const data = {"transcripts":[{"name":"captions","cues":[{"start":310,"text":"Y una técnica adicional para cuidar de ti."},{"start":3460,"text":"Un espacio propio para tu hobby."},{"start":6260,"text":"Reservar un tiempo y espacio propio para hacer algo que disfrutas"},{"start":10380,"text":"sin que tenga relación con tu trabajo de cuidado."},{"start":13500,"text":"también es parte del autocuidado."},{"start":16229,"text":"Leer,"},{"start":16989,"text":"escuchar música,"},{"start":18309,"text":"ver películas"},{"start":19530,"text":"o cualquier actividad"},{"start":21090,"text":"que te haga sentir tú misma o tú mismo otra vez."},{"start":24750,"text":"Dedicar tiempo a lo que disfrutas también es importante para tu bienestar."}]}]};
-    window.globalLoadJsAsset('story_content/5p1KDxD4eAi_transcripts.js', JSON.stringify(data));
-})();
